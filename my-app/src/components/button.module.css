@@ -1,0 +1,7 @@
+.CustomButton {
+  background-color: aqua;
+}
+
+.CustomButton:hover {
+  background-color: darkblue;
+}
